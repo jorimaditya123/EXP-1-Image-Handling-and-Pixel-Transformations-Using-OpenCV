@@ -209,9 +209,7 @@ plt.show()
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/bfdb30a8-53b0-4f68-aeb7-ecc5ec05193e" />
 <img width="1015" height="1348" alt="image" src="https://github.com/user-attachments/assets/83c63bf2-3122-459e-98ef-614549cd2fa5" />
 <img width="1654" height="1122" alt="image" src="https://github.com/user-attachments/assets/8b7637af-adbe-495e-a759-61c12a97009c" />
-<img width="1654" height="1122" alt="image" src="https://github.com/user-attachments/assets/0c430335-f301-41e9-8eed-153e76ee0726" />
 <img width="1501" height="1195" alt="image" src="https://github.com/user-attachments/assets/b0f62c1a-0a19-414a-b8b1-73f20f67c3e7" />
-<img width="1501" height="1195" alt="image" src="https://github.com/user-attachments/assets/571c946a-d99e-4f79-b78e-6c9ea69b2a78" />
 <img width="1444" height="1114" alt="image" src="https://github.com/user-attachments/assets/00d5eb6c-7898-4ba2-bfdc-f2afbebbaf45" />
 
 
